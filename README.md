@@ -1,4 +1,4 @@
-# gwork-logger
+# gwork-controller
 
 ## License
 
